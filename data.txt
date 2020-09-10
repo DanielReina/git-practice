@@ -1,3 +1,3 @@
 name: Daniel
 age: 32
-favorite colour: Blue
+favorite colour: Red
